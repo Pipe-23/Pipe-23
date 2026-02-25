@@ -1,7 +1,7 @@
 ## About me
 
--  **Cybersecurity enthusiast**
--  **CTF player**
+-  **Tech enthusiast**
+-  **Python Developer**
 -  **Dreamer**
 
 

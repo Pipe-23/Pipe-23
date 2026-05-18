@@ -14,9 +14,7 @@
 
 
 ## Tools
-<img src="https://img.shields.io/badge/Terraform-purple?style=for-the-badge&logo=terraform&logoColor=black" alt="Terraform">
-<img src="https://img.shields.io/badge/splunk-purple?style=for-the-badge&logo=splunk&logoColor=grey"> 
-<img src="https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=black" alt="Docker">
+<img src="https://img.shields.io/badge/Terraform-purple?style=for-the-badge&logo=terraform&logoColor=black" alt="Terraform"><img src="https://img.shields.io/badge/aws-orange?style=for-the-badge&logo=aws&logoColor=orange"><img src="https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=black" alt="Docker">
 
 ## Tech Stack
 <img src="https://img.shields.io/badge/python-white?style=for-the-badge&logo=python&logoColor=green" alt="Python"><img src="https://img.shields.io/badge/linux-yellow?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">

@@ -18,7 +18,7 @@
 
 ## Tech Stack
 <img src="https://img.shields.io/badge/python-white?style=for-the-badge&logo=python&logoColor=green" alt="Python"><img src="https://img.shields.io/badge/linux-yellow?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-<img src="https://img.shields.io/badge/java-orange?style=for-the-badge&logo=java&logoColor=yellow" alt="Java">
+<img src="https://img.shields.io/badge/kubernetes-blue?style=for-the-badge&logo=kubernetes&logoColor=blue" alt="Kubernetes">
 <img src="https://img.shields.io/badge/mysql-red?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 
 

@@ -1,7 +1,7 @@
 ## About me
 
--  **Tech enthusiast**
--  **Python Developer**
+-  **Cloud & DevOps Engineer**
+-  **Passionate about Automation & Data**
 -  **Dreamer**
 
 

@@ -14,7 +14,8 @@
 
 
 ## Tools
-<img src="https://img.shields.io/badge/Nmap-grey?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"><img src="https://img.shields.io/badge/Wireshark-blue?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"><img src="https://img.shields.io/badge/splunk-purple?style=for-the-badge&logo=splunk&logoColor=grey"> 
+<img src="https://img.shields.io/badge/Terraform-purple?style=for-the-badge&logo=terraform&logoColor=black" alt="Terraform">
+<img src="https://img.shields.io/badge/splunk-purple?style=for-the-badge&logo=splunk&logoColor=grey"> 
 <img src="https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=black" alt="Docker">
 
 ## Tech Stack

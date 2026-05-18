@@ -13,7 +13,6 @@
 ## Certifications
 
 [![AWS](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](#)
-[![Terraform](https://img.shields.io/badge/Terraform-Associate_In_Progress-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](#)
 
 ## Tools & Cloud Providers
 

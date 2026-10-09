@@ -1,37 +1,38 @@
 ## About me
 
-- 🚀 **Cloud & DevOps Engineer** focused on building high-performance infrastructure.
-- 🏗️ **Infrastructure as Code (IaC) Advocate** passionate about automation and efficiency.
-- 📊 **Data-Driven Systems Engineer** bridging the gap between cloud architecture and financial metrics.
+- 💻 **Full-Stack Developer** building end-to-end web applications with React, TypeScript, and Supabase.
+- 🔐 **Cybersecurity enthusiast**, learning network analysis and security testing on Linux with Kali Linux and nmap.
+- 🗄️ **Systems Engineer** focused on relational database design: normalized schemas, foreign keys, and multi-table queries.
 
 ## Socials
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINK_DE_LINKEDIN)
-[![Medium](https://img.shields.io/badge/medium-%2312100E.svg?style=for-the-badge&logo=medium&logoColor=white)](TU_LINK_DE_MEDIUM)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](TU_LINK_DE_TWITTER)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](TU_LINK_DE_GITHUB)
 
 ## Certifications
 
-[![AWS](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](#)
-
-## Tools & Cloud Providers
-
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white)
+[![Google Cybersecurity](https://img.shields.io/badge/Google-Cybersecurity_Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white)](ENLACE_DE_VERIFICACION)
 
 ## Tech Stack & Core Skills
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-%23557C94.svg?style=for-the-badge&logo=kalilinux&logoColor=white)
+![nmap](https://img.shields.io/badge/nmap-%23004B87.svg?style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Supabase](https://img.shields.io/badge/supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
+![Stripe](https://img.shields.io/badge/stripe-%23635BFF.svg?style=for-the-badge&logo=stripe&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ## Featured Projects
 
-- 🏢 **[Netbooki Infrastructure](LINK_A_TU_REPOSITORIO):** Infrastructure as Code (IaC) deployment script using Terraform to spin up secure AWS services for a real estate financial platform.
-- ⚡ **[CI/CD Microservices Pipeline](LINK_A_TU_REPOSITORIO):** Continuous Delivery system built with GitHub Actions to test and auto-deploy containerized applications.
+- 🏢 **[Netbooki](LINK_A_TU_PROYECTO):** PropTech SaaS for property management. Built with React/Vite, Supabase, PostgreSQL, and Stripe subscriptions, deployed on Vercel.
+- ⚡ **[Punto Aparte](LINK_A_TU_PROYECTO):** Websites and WhatsApp automation for small businesses, built with Make, Twilio, and Zapier.
 
 ---
 
